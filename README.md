@@ -39,17 +39,6 @@ The **Fresh & Natural Juice Poster** is a visual design project aimed at showcas
 
 > Creative Advertising Design | Branding & Marketing Visualization
 
----
-
-## 📸 Preview
-
-### Poster Design:
-
-![Poster Design](https://github.com/YourUsername/Fresh-Natural-Fruit-Juice-Poster/blob/main/FRESH%20AND%20NATURAL.png)
-
-### Outdoor Mockup:
-
-![Mockup Display](https://github.com/YourUsername/Fresh-Natural-Fruit-Juice-Poster/blob/main/Fresh%20juice%20mockup.png)
 
 ---
 
@@ -70,4 +59,15 @@ This project is for **portfolio and educational purposes** only.
 All design elements and images were created using **Canva** assets.
 
 ---
+---
+
+## 📸 Preview
+
+### Poster Design:
+
+![Poster Design](https://github.com/Sanjay-Durai-196/Fresh-Natural-Fruit-Juice-Advertising-Poster/blob/main/FRESH%20AND%20NATURAL.png)
+
+### Outdoor Mockup:
+
+![Mockup Display](https://github.com/Sanjay-Durai-196/Fresh-Natural-Fruit-Juice-Advertising-Poster/blob/main/Fresh%20juice%20mockup.png)
 
