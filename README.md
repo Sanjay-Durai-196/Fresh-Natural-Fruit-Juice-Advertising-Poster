@@ -59,7 +59,6 @@ This project is for **portfolio and educational purposes** only.
 All design elements and images were created using **Canva** assets.
 
 ---
----
 
 ## 📸 Preview
 
